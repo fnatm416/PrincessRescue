@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Land
+  - Object
+  - DeadZone
+  - EndPanel
+  - flag
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Map
+  - Button
+  - Object
+  - Panel
+  - Panel_Btn
+  - Canvas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Canvas
+    uniqueID: 463394335
+    locked: 0
+  - name: Map
+    uniqueID: 3756737911
+    locked: 0
+  - name: Object
+    uniqueID: 524689095
+    locked: 0
+  - name: Button
+    uniqueID: 1118936735
+    locked: 0
+  - name: Panel
+    uniqueID: 4086116975
+    locked: 0
+  - name: Panel_Btn
+    uniqueID: 2393617453
+    locked: 0
