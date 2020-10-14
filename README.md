@@ -1,1 +1,1 @@
-#2D러게임 PrincessRescue
+#2D러닝게임 PrincessRescue
